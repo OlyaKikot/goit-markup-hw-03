@@ -321,6 +321,9 @@ body {
   padding-top: 94px;
   padding-bottom: 94px;
 }
+.portfolio-link {
+  display: block;
+}
 .filter {
   display: flex;
   justify-content: center;
