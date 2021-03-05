@@ -31,6 +31,10 @@ ul {
   margin: 0;
   padding: 0;
 }
+img {
+  display: block;
+  max-width: 100%;
+}
 
 body {
   color: var(--primary-text-color);
@@ -260,9 +264,7 @@ body {
   background-color: var(--primary-color);
   padding: 30px;
 }
-.team-images {
-  display: block;
-}
+
 .team-title {
   font-weight: 500;
   font-size: 16px;
@@ -380,9 +382,7 @@ body {
   margin-top: -30px;
   margin-left: -30px;
 }
-.portfolio-images {
-  display: block;
-}
+
 .portfolio-item {
   flex-basis: calc(100% / 3 - 30px);
   margin-left: 30px;
