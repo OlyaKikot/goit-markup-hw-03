@@ -64,6 +64,11 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+.header-contacts {
+  display: block;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
 
 .nav {
   display: flex;
