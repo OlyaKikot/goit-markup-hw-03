@@ -258,8 +258,7 @@ body {
 }
 .our-team {
   background-color: var(--primary-color);
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding: 30px;
 }
 .team-images {
   display: block;
