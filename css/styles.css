@@ -291,14 +291,14 @@ body {
 
 /*======================= footer =====================*/
 .logo-footer {
+  display: block;
+  margin-bottom: 20px;
   font-family: var(--second-font);
   font-weight: 700;
   font-size: 26px;
   line-height: 1.2;
 }
-.address {
-  margin-top: 20px;
-}
+
 .footer {
   background-color: var(--dark-background);
   padding-top: 60px;
